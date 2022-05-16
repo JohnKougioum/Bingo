@@ -1,4 +1,4 @@
-# bingo
+# Vue Bingo
 
 ## Project setup
 ```
